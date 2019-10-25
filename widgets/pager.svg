@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="50"
+   height="50"
+   id="svg11324"
+   sodipodi:docname="pager.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="977"
+     id="namedview40"
+     showgrid="false"
+     inkscape:zoom="13.350176"
+     inkscape:cx="26.747381"
+     inkscape:cy="23.245041"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg11324" />
+  <metadata
+     id="metadata3500">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs11327" />
+  <rect
+     width="1"
+     height="0.99414408"
+     x="1.1607215"
+     y="1.2080072"
+     id="hint-stretch-borders"
+     style="opacity:0.875;fill:#692366;fill-opacity:1;stroke:none" />
+  <g
+     id="normal-bottomleft">
+    <path
+       d="m 26,13 0,1 1,0 0,-1 -1,0 z"
+       id="86868"
+       style="fill:#463300;fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     id="normal-bottom">
+    <rect
+       width="5"
+       height="1"
+       x="27"
+       y="13"
+       id="65756756"
+       style="fill:#463300;fill-opacity:1;stroke:none" />
+  </g>
+  <path
+     d="m 26,7 0,1 1,0 0,-1 -1,0 z"
+     id="normal-topleft"
+     style="fill:#463300;fill-opacity:1;stroke:none" />
+  <path
+     d="m 32,7 0,1 1,0 0,-1 -1,0 z"
+     id="normal-topright"
+     style="fill:#463300;fill-opacity:1;stroke:none" />
+  <path
+     d="m 27,7 0,1 5,0 0,-1 -5,0 z"
+     id="normal-top"
+     style="fill:#463300;fill-opacity:1;stroke:none" />
+  <path
+     d="m 20,21 0,4.999999 1,0 L 21,21 20,21 z"
+     id="hover-left"
+     style="fill:#0065ca;fill-opacity:1;stroke:none" />
+  <path
+     d="m 27,21 0,4.999999 -1,0 L 26,21 l 1,0 z"
+     id="hover-right"
+     style="fill:#0065ca;fill-opacity:1;stroke:none" />
+  <path
+     d="m 20,26 0,1 1,0 0,-1 -1,0 z"
+     id="hover-bottomleft"
+     style="fill:#0065ca;fill-opacity:1;stroke:none" />
+  <path
+     d="m 26,26 0,1 1,0 0,-1 -1,0 z"
+     id="hover-bottomright"
+     style="fill:#0065ca;fill-opacity:1;stroke:none" />
+  <rect
+     width="5"
+     height="1"
+     x="21"
+     y="26"
+     id="hover-bottom"
+     style="fill:#0065ca;fill-opacity:1;stroke:none" />
+  <path
+     d="m 20,20 0,1 1,0 0,-1 -1,0 z"
+     id="hover-topleft"
+     style="fill:#0065ca;fill-opacity:1;stroke:none" />
+  <path
+     d="m 26,20 0,1 1,0 0,-1 -1,0 z"
+     id="hover-topright"
+     style="fill:#0065ca;fill-opacity:1;stroke:none" />
+  <path
+     d="m 21,20 0,1 5,0 0,-1 -5,0 z"
+     id="hover-top"
+     style="fill:#0065ca;fill-opacity:1;stroke:none" />
+  <path
+     d="m 30,21 0,4.999999 1,0 L 31,21 30,21 z"
+     id="active-left"
+     style="fill:#692366;fill-opacity:1;stroke:none" />
+  <path
+     d="m 37,21 0,4.999999 -1,0 L 36,21 l 1,0 z"
+     id="active-right"
+     style="fill:#692366;fill-opacity:1;stroke:none" />
+  <path
+     d="m 30,26 0,1 1,0 0,-1 -1,0 z"
+     id="active-bottomleft"
+     style="fill:#692366;fill-opacity:1;stroke:none" />
+  <path
+     d="m 36,26 0,1 1,0 0,-1 -1,0 z"
+     id="active-bottomright"
+     style="fill:#692366;fill-opacity:1;stroke:none" />
+  <rect
+     width="5"
+     height="1"
+     x="31"
+     y="26"
+     id="active-bottom"
+     style="fill:#692366;fill-opacity:1;stroke:none" />
+  <path
+     d="m 30,20 0,1 1,0 0,-1 -1,0 z"
+     id="active-topleft"
+     style="fill:#692366;fill-opacity:1;stroke:none" />
+  <path
+     d="m 36,20 0,1 1,0 0,-1 -1,0 z"
+     id="active-topright"
+     style="fill:#692366;fill-opacity:1;stroke:none" />
+  <path
+     d="m 31,20 0,1 5,0 0,-1 -5,0 z"
+     id="active-top"
+     style="fill:#692366;fill-opacity:1;stroke:none" />
+  <g
+     transform="translate(0.01477623,3.3950806e-4)"
+     id="normal-center">
+    <rect
+       width="5.010838"
+       height="5.0000005"
+       x="26.974386"
+       y="7.9996605"
+       id="ergrerg"
+       style="opacity:0.01;fill:#8c6600;fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     id="normal-bottomright">
+    <path
+       d="m 32,13 0,1 1,0 0,-1 -1,0 z"
+       id="8979879"
+       style="fill:#463300;fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     id="normal-right">
+    <path
+       d="m 33,8 0,4.999999 -1,0 L 32,8 33,8 z"
+       id="nofh"
+       style="fill:#463300;fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     transform="translate(-6,0)"
+     id="normal-left">
+    <path
+       d="m 33,8 0,4.999999 -1,0 L 32,8 33,8 z"
+       id="path6648"
+       style="fill:#463300;fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     transform="matrix(1,0,0,1.0088634,-5.9743862,12.885119)"
+     id="hover-center">
+    <rect
+       width="5.010838"
+       height="4.9560733"
+       x="26.974386"
+       y="8.0435877"
+       id="rect6882"
+       style="opacity:0.25;fill:#0065ca;fill-opacity:1;stroke:none" />
+  </g>
+  <rect
+     width="5"
+     height="5"
+     x="31"
+     y="21"
+     id="active-center"
+     style="opacity:0.25;fill:#692366;fill-opacity:1;stroke:none" />
+</svg>
